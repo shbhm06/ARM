@@ -1,0 +1,18 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/vivado/arm.xpr/arm/arm.srcs/sources_1/new/cnn_controller.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cnn_controller
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/vivado/arm.xpr/arm/arm.srcs/sources_1/new/cnn_top.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module cnn_top
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/vivado/arm.xpr/arm/arm.srcs/sources_1/new/conv_mac.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module conv_mac
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/vivado/arm.xpr/arm/arm.srcs/sources_1/new/conv_weights.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module conv_weights
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/vivado/arm.xpr/arm/arm.srcs/sources_1/new/output_buffer.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module output_buffer
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/vivado/arm.xpr/arm/arm.srcs/sources_1/new/relu_act.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module relu_act
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/vivado/arm.xpr/arm/arm.srcs/sources_1/new/sliding_window_gen.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sliding_window_gen
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/vivado/arm.xpr/arm/arm.srcs/sources_1/new/cnntb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_cnn
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/vivado/arm.xpr/arm/arm.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

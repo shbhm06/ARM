@@ -1,0 +1,57 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Fri Feb  6 23:26:01 2026
+# Process ID         : 14580
+# Current directory  : C:/Xilinx/Vivado_Projects/arm
+# Command line       : vivado.exe C:\Xilinx\Vivado_Projects\arm\arm.xpr
+# Log file           : C:/Xilinx/Vivado_Projects/arm/vivado.log
+# Journal file       : C:/Xilinx/Vivado_Projects/arm\vivado.jou
+# Running On         : Ishaan-DC248KK4
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : 11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz
+# CPU Frequency      : 2995 MHz
+# CPU Physical cores : 2
+# CPU Logical cores  : 4
+# Host memory        : 8379 MB
+# Swap memory        : 22408 MB
+# Total Virtual      : 30787 MB
+# Available Virtual  : 9181 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Xilinx/Vivado_Projects/arm/arm.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+launch_simulation
+launch_simulation
+source tb_cnn.tcl
+relaunch_sim
+relaunch_sim
+relaunch_sim
+close_sim
+launch_simulation
+source tb_cnn.tcl
+close_sim
+launch_simulation
+source tb_cnn.tcl
+close_sim
+launch_simulation
+source tb_cnn.tcl
+close_sim
+launch_simulation
+launch_simulation
+source tb_cnn.tcl
+close_sim
+launch_simulation
+source tb_cnn.tcl
+relaunch_sim
+close_sim
+launch_simulation
+source tb_cnn.tcl
+close_sim
+launch_simulation
+source tb_cnn.tcl
+archive_project C:/Xilinx/Vivado_Projects/arm.xpr.zip -temp_dir C:/Xilinx/Vivado_Projects/arm/.Xil/Vivado-14580-Ishaan-DC248KK4 -force -include_local_ip_cache

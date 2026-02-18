@@ -1,0 +1,13 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+C:/vivado/arm.xpr/arm/arm.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,,,,,,,
+C:/vivado/arm.xpr/arm/arm.srcs/sources_1/new/cnn_controller.v,1770403915,verilog,,C:/vivado/arm.xpr/arm/arm.srcs/sources_1/new/cnn_top.v,,cnn_controller,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/vivado/arm.xpr/arm/arm.srcs/sources_1/new/cnn_top.v,1770630525,verilog,,C:/vivado/arm.xpr/arm/arm.srcs/sources_1/new/conv_mac.v,,cnn_top,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/vivado/arm.xpr/arm/arm.srcs/sources_1/new/cnntb.v,1770654682,verilog,,,,tb_cnn,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/vivado/arm.xpr/arm/arm.srcs/sources_1/new/conv_mac.v,1770653957,verilog,,C:/vivado/arm.xpr/arm/arm.srcs/sources_1/new/conv_weights.v,,conv_mac,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/vivado/arm.xpr/arm/arm.srcs/sources_1/new/conv_weights.v,1770653602,verilog,,C:/vivado/arm.xpr/arm/arm.srcs/sources_1/new/output_buffer.v,,conv_weights,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/vivado/arm.xpr/arm/arm.srcs/sources_1/new/output_buffer.v,1770409010,verilog,,C:/vivado/arm.xpr/arm/arm.srcs/sources_1/new/relu_act.v,,output_buffer,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/vivado/arm.xpr/arm/arm.srcs/sources_1/new/relu_act.v,1770403915,verilog,,C:/vivado/arm.xpr/arm/arm.srcs/sources_1/new/sliding_window_gen.v,,relu_act,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/vivado/arm.xpr/arm/arm.srcs/sources_1/new/sliding_window_gen.v,1770403915,verilog,,C:/vivado/arm.xpr/arm/arm.srcs/sources_1/new/cnntb.v,,sliding_window_gen,,,../../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
